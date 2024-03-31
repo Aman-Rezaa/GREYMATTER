@@ -134,7 +134,8 @@ canvas{
 #page>h3{
     margin-top: 1vw;
     position: absolute;
-    top: 55%;
+    top: 60%;
+    /* (55) */
     font-family: gilroy;
     font-weight: 400;
     color: #7c7c7c;
@@ -146,7 +147,8 @@ canvas{
 #page>h4{
     margin-top: 1vw;
     position: absolute;
-    top: 62%;
+    top: 67%;   
+    /* (62) */
     left: 25%;
     color: var(--secondary-color);
     /* color: #fff; */
